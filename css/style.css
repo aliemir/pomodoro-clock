@@ -1,0 +1,44 @@
+.settings {
+  display: inline;
+  font-family: 'Roboto', sans-serif;
+}
+.progress-text{
+  font-family: 'Raleway', sans-serif;
+  color: '#fff' !important;
+  font-size: 350%;
+}
+.header {
+  font-family: 'Pacifico', cursive;
+  font-size: 202%;
+  margin-top: -23px;
+}
+#timer {
+  height: 50%;
+  width: 50%;
+  margin-top: 5%;
+  margin-bottom: 2%;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  margin-top: 5%;
+  background-color: #424242;
+  color: #fff;
+}
+#start-stop button {
+  width:49%;
+}
+#break-length {
+  padding-left: 21%;
+}
+#pom-length {
+  padding-left: 21%;
+}
+.footer {
+  color: #EEEEEE;
+  font-family: 'Raleway', sans-serif;
+}
+.footer hr {
+  background-color: #EEEEEE;
+  width: 50%;
+}
